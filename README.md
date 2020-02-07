@@ -36,5 +36,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-
-esto es un cambio hecho para el curso de git y github de Platzi
+Esto es un cambio hecho para el curso de git y github de Platzi
+Creado por el Team Platzy, incluye ejemplos en Windows Linux y Mac
