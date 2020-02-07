@@ -38,3 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 Esto es un cambio hecho para el curso de git y github de Platzi
 Creado por el Team Platzy, incluye ejemplos en Windows Linux y Mac
+
+Disponible para todas las edades
